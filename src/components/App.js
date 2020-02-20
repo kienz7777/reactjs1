@@ -22,7 +22,7 @@ import {
 
 class App extends Component {
   render() {
-    console.log("add second commit");
+    console.log("add new branch");
     return (
       <Router>
         <div>
